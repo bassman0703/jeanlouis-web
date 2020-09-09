@@ -3695,7 +3695,7 @@ footer .icon {
 }
 
 .carusel .blockInfo .blockPoints .pointLeft:after, .carusel .blockInfo .blockPoints .pointRight:after {
-    background-image: url(web/skins/images/main_sprite.png);
+    background-image: url(/img/sliderArrow.png);
     content: '';
     left: 50%;
     margin-left: -2px;
